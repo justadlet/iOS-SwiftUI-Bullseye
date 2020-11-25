@@ -12,11 +12,8 @@
 
 ## Main page
 
-<p align="center">
+<p>
   <img alt="About image" title="Mockup" src="https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye1.png?raw=true" width="640"></img>
   <img alt="About image" title="Mockup" src="https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye0.png?raw=true" width="640"></img>
   <img alt="About image" title="Mockup" src="https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye2.png?raw=true" width="640"></img>
 </p>
-
-:-------------------------:|:-------------------------:|:-------------------------:
-![Alt name](https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye1.png?raw=true)  |  ![Alt name](https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye0.png?raw=true) | ![Alt name](https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye2.png?raw=true)
