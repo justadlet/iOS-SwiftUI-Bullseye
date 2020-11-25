@@ -1,5 +1,11 @@
 # 🎯 Bullseye 🎯
-an iOS game built using SwiftUI
+<div align="center">
+  Bull's Eye - an iOS app built using SwiftUI.
+</div>
 
-##Main page
-![Main image](https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/BullseyeAbout.png?raw=true)
+## About page
+
+<p align="center">
+  <img alt="About image" title="Mockup" src="https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/BullseyeAbout.png?raw=true" width="1080"></img>
+ 
+</p>
