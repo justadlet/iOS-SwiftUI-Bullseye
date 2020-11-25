@@ -14,9 +14,9 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye1.png?raw=true" alt="Screenshot" width: "450" style="padding: 5px; float: left;">
+    <img src="https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye1.png?raw=true" alt="Screenshot" width = "450" style="padding: 5px; float: left;">
   </div>
   <div class="column">
-    <img src="https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye0.png?raw=true" alt="Screenshot" width: "450" style="padding: 5px; float: left;">
+    <img src="https://github.com/justadlet/iOS-SwiftUI-Bullseye/blob/master/Bullseye0.png?raw=true" alt="Screenshot" width = "450" style="padding: 5px; float: left;">
   </div>
 </div>
